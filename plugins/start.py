@@ -151,7 +151,7 @@ async def start_command(client: Client, message: Message):
   text = ( "<b><u>Pʀᴇᴠɪᴏᴜs Mᴇssᴀɢᴇ ᴡᴀs Dᴇʟᴇᴛᴇᴅ</u> 🗑</b>\n"
     "<blockquote>"
     "<b>Iғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ғɪʟᴇs ᴀɢᴀɪɴ, ᴛʜᴇɴ ᴄʟɪᴄᴋ: "
-    f"<a href='{reload_url}'>⭕ Cʟɪᴄᴋ Hᴇʀᴇ</a> "
+    f"[<a href='{reload_url}'>⭕ Cʟɪᴄᴋ Hᴇʀᴇ</a>] "
     "ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴇʟsᴇ ᴄʟᴏsᴇ ᴛʜɪs ᴍᴇssᴀɢᴇ.</b>"
     "</blockquote>"
 ),
